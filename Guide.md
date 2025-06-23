@@ -119,7 +119,7 @@ Bước 5: Sao chép hoặc kéo và thả tệp CreatorNMHRUBYBrushes.jsx vào 
 Bước 6: Mở Photoshop, nhấp vào Tệp, sau đó chọn Script, nhấp vào tên CreatorNMHRUBYBrushes và chọn thư mục chứa PNG bạn muốn chuyển đổi thành Cọ. Đợi vài giây, thưởng thức!
 ```
 
-[Online Website Auto | Cooming soon....](https://example.com "Hung Dep Zai Vl")
+[Online Website Auto | Click here]([https://example.com](https://nmhruby-photoshop-brush-creator.glitch.me) "Hung Dep Zai Vl")
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
